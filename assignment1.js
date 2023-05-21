@@ -2,8 +2,8 @@ serverVerbs = ["GET", "GET", "GET", "POST", "GET", "POST"];
 serverPaths = ["/", "/about", "/contact", "/login", "/panel", "/logout"];
 serverResponses = [
   "Welcome to WEB700 Assignment 1",
-  "This assignment was prepared by Student Name",
-  "Student Name: Student Email",
+  "This assignment was prepared by ACHAL MEHTA",
+  "Student Name: Amehta68@myseneca.ca",
   "User Logged In",
   "Main Panel",
   "Logout Complete"
